@@ -1,0 +1,2 @@
+grep - you may use this command when you want to derive some files with unique features from the mass of files. The command has two parametrs - what feature we should search, where we should search. For example find ~ -name "B*.jpg"
+For example ls -la | grep mv - show in the current directory all files with mv.  
